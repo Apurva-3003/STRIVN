@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">STRIVN</string>
+    <string name="notification_check_in_title">STRIVN</string>
+    <string name="notification_check_in_body">Complete your check-in to get today\'s training recommendation</string>
+</resources>
