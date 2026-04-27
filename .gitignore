@@ -1,3 +1,4 @@
+# Android
 *.iml
 .gradle
 /local.properties
@@ -5,11 +6,18 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+backend/venv/
+backend/strivn.db
+
+# DB
+*.db
